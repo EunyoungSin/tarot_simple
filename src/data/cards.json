@@ -1,0 +1,2030 @@
+[
+  {
+    "id": "major-00",
+    "name": "The Fool",
+    "nameKo": "바보",
+    "arcana": "major",
+    "suit": null,
+    "number": 0,
+    "rank": null,
+    "image": "/images/major-00-fool.jpg",
+    "keywords": {
+      "upright": [
+        "새로운 시작",
+        "순수함",
+        "자유로운 도전"
+      ],
+      "reversed": [
+        "무모함",
+        "경솔함",
+        "방향 상실"
+      ]
+    },
+    "meaning": {
+      "upright": "아무것도 정해지지 않은 새로운 출발점에 서 있음을 상징한다. 두려움 없이 낯선 길로 뛰어드는 순수한 용기와 잠재력을 나타내며, 결과를 미리 계산하기보다 직감을 믿고 나아가라는 메시지를 담고 있다.",
+      "reversed": "준비 없이 무작정 뛰어드는 경솔함이나 현실감각의 부족을 경고한다. 충동적인 선택이 예상치 못한 위험으로 이어질 수 있으니 한 걸음 물러나 점검할 때임을 알려준다."
+    }
+  },
+  {
+    "id": "major-01",
+    "name": "The Magician",
+    "nameKo": "마법사",
+    "arcana": "major",
+    "suit": null,
+    "number": 1,
+    "rank": null,
+    "image": "/images/major-01-magician.jpg",
+    "keywords": {
+      "upright": [
+        "창조력",
+        "실행력",
+        "자원 활용"
+      ],
+      "reversed": [
+        "재능 낭비",
+        "기만",
+        "계획 부족"
+      ]
+    },
+    "meaning": {
+      "upright": "이미 가진 재능과 자원을 활용해 의지를 현실로 만들어내는 능력을 보여준다. 목표를 이루기 위한 도구가 모두 손에 쥐어져 있으니 자신감을 갖고 행동으로 옮기라는 신호다.",
+      "reversed": "능력을 엉뚱한 곳에 쓰거나 진심 없이 겉치레만 부리는 상태를 암시한다. 말과 행동이 일치하지 않거나 목적을 숨긴 채 상대를 속이려는 태도를 조심해야 한다."
+    }
+  },
+  {
+    "id": "major-02",
+    "name": "The High Priestess",
+    "nameKo": "여사제",
+    "arcana": "major",
+    "suit": null,
+    "number": 2,
+    "rank": null,
+    "image": "/images/major-02-high-priestess.jpg",
+    "keywords": {
+      "upright": [
+        "직관",
+        "내면의 지혜",
+        "비밀"
+      ],
+      "reversed": [
+        "억눌린 직감",
+        "혼란",
+        "숨겨진 진실 왜곡"
+      ]
+    },
+    "meaning": {
+      "upright": "겉으로 드러나지 않은 내면의 목소리와 직관에 귀 기울이라는 카드다. 아직 말로 설명하기 어려운 감각이라도 그 안에 중요한 답이 숨어 있음을 시사한다.",
+      "reversed": "직관을 무시하거나 감정을 억누른 채 겉모습에만 신경 쓰는 상태를 나타낸다. 정보가 왜곡되거나 비밀이 불편한 방식으로 드러날 수 있으니 주의가 필요하다."
+    }
+  },
+  {
+    "id": "major-03",
+    "name": "The Empress",
+    "nameKo": "여황제",
+    "arcana": "major",
+    "suit": null,
+    "number": 3,
+    "rank": null,
+    "image": "/images/major-03-empress.jpg",
+    "keywords": {
+      "upright": [
+        "풍요",
+        "창조",
+        "돌봄"
+      ],
+      "reversed": [
+        "정체",
+        "과잉보호",
+        "소진"
+      ]
+    },
+    "meaning": {
+      "upright": "자연스러운 성장과 풍요, 그리고 따뜻한 보살핌을 상징한다. 창조적인 에너지가 충만해 관계와 결실 모두에서 넉넉함을 누릴 수 있는 시기임을 보여준다.",
+      "reversed": "지나친 간섭이나 의존, 혹은 스스로를 돌보지 못해 지친 상태를 가리킨다. 풍요로움이 정체되어 성장이 멈추거나 감정적으로 소모되고 있음을 점검해야 한다."
+    }
+  },
+  {
+    "id": "major-04",
+    "name": "The Emperor",
+    "nameKo": "황제",
+    "arcana": "major",
+    "suit": null,
+    "number": 4,
+    "rank": null,
+    "image": "/images/major-04-emperor.jpg",
+    "keywords": {
+      "upright": [
+        "안정",
+        "질서",
+        "리더십"
+      ],
+      "reversed": [
+        "독선",
+        "경직",
+        "통제 상실"
+      ]
+    },
+    "meaning": {
+      "upright": "확고한 원칙과 구조로 상황을 안정시키는 리더십을 의미한다. 책임감 있게 질서를 세우고 장기적인 계획을 실행에 옮길 힘이 있음을 나타낸다.",
+      "reversed": "지나친 통제욕이나 융통성 없는 태도가 갈등을 부를 수 있음을 경고한다. 권위에 집착하다 오히려 상황에 대한 장악력을 잃을 위험이 있다."
+    }
+  },
+  {
+    "id": "major-05",
+    "name": "The Hierophant",
+    "nameKo": "교황",
+    "arcana": "major",
+    "suit": null,
+    "number": 5,
+    "rank": null,
+    "image": "/images/major-05-hierophant.jpg",
+    "keywords": {
+      "upright": [
+        "전통",
+        "가르침",
+        "신념 체계"
+      ],
+      "reversed": [
+        "관습에 대한 반발",
+        "독단",
+        "형식주의"
+      ]
+    },
+    "meaning": {
+      "upright": "검증된 전통과 제도, 스승의 가르침을 따르며 안정된 신념 체계 안에서 성장함을 뜻한다. 공동체의 규범을 존중하는 태도가 도움이 되는 시기다.",
+      "reversed": "낡은 관습이나 규칙에 얽매이거나 반대로 그것을 무조건 거부하려는 갈등을 보여준다. 형식에만 치우쳐 본질을 놓치고 있지 않은지 되짚어봐야 한다."
+    }
+  },
+  {
+    "id": "major-06",
+    "name": "The Lovers",
+    "nameKo": "연인",
+    "arcana": "major",
+    "suit": null,
+    "number": 6,
+    "rank": null,
+    "image": "/images/major-06-lovers.jpg",
+    "keywords": {
+      "upright": [
+        "사랑",
+        "조화로운 선택",
+        "결합"
+      ],
+      "reversed": [
+        "불균형",
+        "갈등",
+        "잘못된 선택"
+      ]
+    },
+    "meaning": {
+      "upright": "깊은 유대감과 진심 어린 선택의 순간을 상징한다. 가치관이 맞는 상대나 방향을 만나 서로를 온전히 신뢰하며 함께 나아갈 수 있음을 보여준다.",
+      "reversed": "관계 속 불균형이나 가치관 충돌, 우유부단한 선택을 암시한다. 서로 다른 방향을 바라보며 신뢰에 균열이 생기고 있지 않은지 살펴야 한다."
+    }
+  },
+  {
+    "id": "major-07",
+    "name": "The Chariot",
+    "nameKo": "전차",
+    "arcana": "major",
+    "suit": null,
+    "number": 7,
+    "rank": null,
+    "image": "/images/major-07-chariot.jpg",
+    "keywords": {
+      "upright": [
+        "의지",
+        "추진력",
+        "승리"
+      ],
+      "reversed": [
+        "방향 상실",
+        "통제력 부족",
+        "조급함"
+      ]
+    },
+    "meaning": {
+      "upright": "상반된 힘을 하나의 방향으로 모아 목표를 향해 힘있게 나아가는 의지를 나타낸다. 강한 집중력과 자기 확신으로 눈앞의 장애물을 돌파할 수 있음을 보여준다.",
+      "reversed": "내적 갈등이나 산만함으로 인해 방향을 잃고 제자리를 맴도는 상태를 뜻한다. 조급하게 밀어붙이다 오히려 통제력을 잃을 수 있으니 속도를 조절해야 한다."
+    }
+  },
+  {
+    "id": "major-08",
+    "name": "Strength",
+    "nameKo": "힘",
+    "arcana": "major",
+    "suit": null,
+    "number": 8,
+    "rank": null,
+    "image": "/images/major-08-strength.jpg",
+    "keywords": {
+      "upright": [
+        "내적인 용기",
+        "인내",
+        "부드러운 절제"
+      ],
+      "reversed": [
+        "자기 의심",
+        "조급한 분노",
+        "나약함"
+      ]
+    },
+    "meaning": {
+      "upright": "거친 힘이 아니라 부드러움과 인내로 어려움을 다스리는 진정한 용기를 의미한다. 자신의 감정과 충동을 따뜻하게 다독이며 상황을 순화시킬 수 있는 힘이 있음을 보여준다.",
+      "reversed": "자신감을 잃고 두려움에 압도되거나 반대로 감정을 거칠게 터뜨리는 상태를 나타낸다. 스스로에 대한 믿음을 회복하는 과정이 필요한 시기다."
+    }
+  },
+  {
+    "id": "major-09",
+    "name": "The Hermit",
+    "nameKo": "은둔자",
+    "arcana": "major",
+    "suit": null,
+    "number": 9,
+    "rank": null,
+    "image": "/images/major-09-hermit.jpg",
+    "keywords": {
+      "upright": [
+        "성찰",
+        "고독",
+        "내면의 탐구"
+      ],
+      "reversed": [
+        "고립",
+        "회피",
+        "소통 단절"
+      ]
+    },
+    "meaning": {
+      "upright": "잠시 세상과 거리를 두고 홀로 자신을 들여다보는 성찰의 시간을 상징한다. 조용한 고독 속에서 얻은 통찰이 앞으로의 길을 밝혀주는 등불이 된다.",
+      "reversed": "지나친 고립으로 사람들과의 연결이 끊기거나 현실을 회피하는 모습을 보여준다. 혼자만의 생각에 갇혀 오히려 문제 해결이 늦어질 수 있다."
+    }
+  },
+  {
+    "id": "major-10",
+    "name": "Wheel of Fortune",
+    "nameKo": "운명의 수레바퀴",
+    "arcana": "major",
+    "suit": null,
+    "number": 10,
+    "rank": null,
+    "image": "/images/major-10-wheel-of-fortune.jpg",
+    "keywords": {
+      "upright": [
+        "변화",
+        "순환",
+        "뜻밖의 전환점"
+      ],
+      "reversed": [
+        "불운",
+        "정체된 흐름",
+        "통제 밖 변수"
+      ]
+    },
+    "meaning": {
+      "upright": "삶의 흐름이 새로운 국면으로 전환되는 순간을 나타낸다. 예상치 못한 기회나 변화가 찾아와 상황이 좋은 방향으로 굴러갈 수 있음을 암시한다.",
+      "reversed": "흐름이 원하는 방향과 반대로 흘러가거나 계획이 뜻대로 풀리지 않는 시기를 뜻한다. 통제할 수 없는 외부 변수에 흔들리지 않도록 마음의 중심을 잡아야 한다."
+    }
+  },
+  {
+    "id": "major-11",
+    "name": "Justice",
+    "nameKo": "정의",
+    "arcana": "major",
+    "suit": null,
+    "number": 11,
+    "rank": null,
+    "image": "/images/major-11-justice.jpg",
+    "keywords": {
+      "upright": [
+        "공정함",
+        "균형",
+        "인과응보"
+      ],
+      "reversed": [
+        "불공정",
+        "편향된 판단",
+        "책임 회피"
+      ]
+    },
+    "meaning": {
+      "upright": "원인과 결과가 정직하게 맞아떨어지는 공정한 심판의 순간을 의미한다. 객관적인 시각으로 사실을 판단하고 그에 따른 정당한 결과를 받아들일 준비가 되어 있음을 보여준다.",
+      "reversed": "판단이 한쪽으로 치우치거나 책임을 회피하려는 태도를 경고한다. 불공정한 대우나 왜곡된 시선으로 인해 균형이 무너질 수 있다."
+    }
+  },
+  {
+    "id": "major-12",
+    "name": "The Hanged Man",
+    "nameKo": "매달린 남자",
+    "arcana": "major",
+    "suit": null,
+    "number": 12,
+    "rank": null,
+    "image": "/images/major-12-hanged-man.jpg",
+    "keywords": {
+      "upright": [
+        "관점의 전환",
+        "기다림",
+        "내려놓음"
+      ],
+      "reversed": [
+        "헛된 희생",
+        "정체",
+        "저항"
+      ]
+    },
+    "meaning": {
+      "upright": "익숙한 시각을 내려놓고 거꾸로 세상을 바라볼 때 비로소 보이는 새로운 깨달음을 상징한다. 당장의 손해처럼 보여도 잠시 멈추고 기다리는 것이 더 큰 통찰을 준다.",
+      "reversed": "의미 없는 희생을 반복하거나 변화를 거부한 채 제자리에 머무는 상태를 나타낸다. 내려놓아야 할 것을 붙잡고 있어 상황이 정체되고 있음을 보여준다."
+    }
+  },
+  {
+    "id": "major-13",
+    "name": "Death",
+    "nameKo": "죽음",
+    "arcana": "major",
+    "suit": null,
+    "number": 13,
+    "rank": null,
+    "image": "/images/major-13-death.jpg",
+    "keywords": {
+      "upright": [
+        "끝과 재생",
+        "근본적 변화",
+        "매듭짓기"
+      ],
+      "reversed": [
+        "변화에 대한 저항",
+        "미련",
+        "정체된 종결"
+      ]
+    },
+    "meaning": {
+      "upright": "하나의 국면이 완전히 끝나고 전혀 다른 새로운 단계로 넘어가는 근본적인 전환을 뜻한다. 낡은 것을 떠나보내야 비로소 그 자리에 새로운 가능성이 자라날 수 있다.",
+      "reversed": "끝내야 할 것을 붙잡고 놓지 못해 변화가 지연되는 상태를 나타낸다. 과거에 대한 미련이 앞으로 나아가는 걸음을 무겁게 만들고 있다."
+    }
+  },
+  {
+    "id": "major-14",
+    "name": "Temperance",
+    "nameKo": "절제",
+    "arcana": "major",
+    "suit": null,
+    "number": 14,
+    "rank": null,
+    "image": "/images/major-14-temperance.jpg",
+    "keywords": {
+      "upright": [
+        "조화",
+        "균형",
+        "절제된 통합"
+      ],
+      "reversed": [
+        "불균형",
+        "극단적인 선택",
+        "인내 부족"
+      ]
+    },
+    "meaning": {
+      "upright": "서로 다른 요소들을 알맞게 섞어 조화로운 균형을 만들어가는 과정을 상징한다. 서두르지 않고 인내심을 갖고 조율할 때 안정적인 결실을 얻을 수 있음을 보여준다.",
+      "reversed": "극단으로 치우치거나 균형을 잃어 관계나 상황이 어긋나는 모습을 나타낸다. 조급함이나 과욕이 그동안 쌓아온 조화를 깨뜨릴 수 있다."
+    }
+  },
+  {
+    "id": "major-15",
+    "name": "The Devil",
+    "nameKo": "악마",
+    "arcana": "major",
+    "suit": null,
+    "number": 15,
+    "rank": null,
+    "image": "/images/major-15-devil.jpg",
+    "keywords": {
+      "upright": [
+        "집착",
+        "속박",
+        "유혹"
+      ],
+      "reversed": [
+        "속박에서의 해방",
+        "자각",
+        "벗어남"
+      ]
+    },
+    "meaning": {
+      "upright": "스스로를 얽매는 집착이나 물질적 유혹, 해로운 관계에 발이 묶인 상태를 나타낸다. 겉으로는 자유로워 보이지 않지만 사실 그 사슬은 스스로 만든 것임을 자각해야 한다.",
+      "reversed": "오랫동안 묶여 있던 습관이나 관계로부터 벗어나려는 자각과 용기를 보여준다. 자신을 옭아매던 것의 실체를 알아차리고 서서히 해방되어가는 과정이다."
+    }
+  },
+  {
+    "id": "major-16",
+    "name": "The Tower",
+    "nameKo": "탑",
+    "arcana": "major",
+    "suit": null,
+    "number": 16,
+    "rank": null,
+    "image": "/images/major-16-tower.jpg",
+    "keywords": {
+      "upright": [
+        "급격한 붕괴",
+        "충격적 진실",
+        "강제적 변화"
+      ],
+      "reversed": [
+        "붕괴에 대한 저항",
+        "지연된 위기",
+        "두려움 회피"
+      ]
+    },
+    "meaning": {
+      "upright": "오랫동안 위태롭게 쌓아온 구조가 한순간에 무너지는 급작스러운 충격을 상징한다. 고통스럽지만 거짓된 토대를 허물어야 그 위에 더 단단한 진실을 다시 세울 수 있다.",
+      "reversed": "다가오는 붕괴를 애써 외면하거나 위기를 미루기만 하는 상태를 나타낸다. 두려움 때문에 필요한 변화를 미루면 문제가 더 커질 수 있음을 경고한다."
+    }
+  },
+  {
+    "id": "major-17",
+    "name": "The Star",
+    "nameKo": "별",
+    "arcana": "major",
+    "suit": null,
+    "number": 17,
+    "rank": null,
+    "image": "/images/major-17-star.jpg",
+    "keywords": {
+      "upright": [
+        "희망",
+        "치유",
+        "영감"
+      ],
+      "reversed": [
+        "희망 상실",
+        "실망",
+        "자신감 저하"
+      ]
+    },
+    "meaning": {
+      "upright": "힘든 시기를 지나온 뒤 찾아오는 잔잔한 희망과 치유의 에너지를 상징한다. 순수한 소망을 품고 꾸준히 나아가면 서서히 회복되고 밝은 영감을 얻을 수 있음을 보여준다.",
+      "reversed": "지친 마음에 희망을 잃고 스스로에 대한 믿음이 흔들리는 상태를 나타낸다. 기대했던 것이 이루어지지 않아 실망감이 깊어질 수 있으니 작은 위안부터 되찾아야 한다."
+    }
+  },
+  {
+    "id": "major-18",
+    "name": "The Moon",
+    "nameKo": "달",
+    "arcana": "major",
+    "suit": null,
+    "number": 18,
+    "rank": null,
+    "image": "/images/major-18-moon.jpg",
+    "keywords": {
+      "upright": [
+        "불안",
+        "무의식",
+        "모호함"
+      ],
+      "reversed": [
+        "혼란 해소",
+        "두려움 극복",
+        "진실이 드러남"
+      ]
+    },
+    "meaning": {
+      "upright": "뚜렷하지 않은 불안과 무의식 속 감정이 표면으로 떠오르는 시기를 상징한다. 상황이 안개에 싸인 듯 모호하니 착각과 두려움에 휘둘리지 않도록 조심스럽게 나아가야 한다.",
+      "reversed": "오랫동안 혼란스러웠던 감정이나 상황이 서서히 걷히며 진실이 드러나는 과정을 나타낸다. 막연했던 두려움의 실체를 마주하면서 마음이 점차 안정을 찾아간다."
+    }
+  },
+  {
+    "id": "major-19",
+    "name": "The Sun",
+    "nameKo": "태양",
+    "arcana": "major",
+    "suit": null,
+    "number": 19,
+    "rank": null,
+    "image": "/images/major-19-sun.jpg",
+    "keywords": {
+      "upright": [
+        "기쁨",
+        "성취",
+        "밝은 활력"
+      ],
+      "reversed": [
+        "일시적 침체",
+        "과도한 낙관",
+        "성취 지연"
+      ]
+    },
+    "meaning": {
+      "upright": "구름 한 점 없이 밝게 빛나는 성취와 순수한 기쁨의 순간을 상징한다. 자신감 넘치는 태도로 원하는 결과를 얻고 주변에도 긍정적인 에너지를 나누게 됨을 보여준다.",
+      "reversed": "기대했던 밝음이 잠시 가려지거나 성취가 늦어지는 답답함을 나타낸다. 지나친 낙관에 취해 현실적인 준비를 소홀히 하지 않도록 주의가 필요하다."
+    }
+  },
+  {
+    "id": "major-20",
+    "name": "Judgement",
+    "nameKo": "심판",
+    "arcana": "major",
+    "suit": null,
+    "number": 20,
+    "rank": null,
+    "image": "/images/major-20-judgement.jpg",
+    "keywords": {
+      "upright": [
+        "각성",
+        "재평가",
+        "부름에 응답"
+      ],
+      "reversed": [
+        "자기 비판",
+        "과거에 대한 후회",
+        "결단 회피"
+      ]
+    },
+    "meaning": {
+      "upright": "지나온 과정을 되돌아보고 스스로를 새롭게 일으켜 세우는 각성의 순간을 상징한다. 내면의 부름에 응답하며 진정한 자신의 모습으로 거듭날 준비가 되어 있음을 보여준다.",
+      "reversed": "과거의 잘못에 지나치게 얽매이거나 자신을 가혹하게 비판하는 상태를 나타낸다. 중요한 결단을 미루며 스스로에게 필요한 용서를 하지 못하고 있을 수 있다."
+    }
+  },
+  {
+    "id": "major-21",
+    "name": "The World",
+    "nameKo": "세계",
+    "arcana": "major",
+    "suit": null,
+    "number": 21,
+    "rank": null,
+    "image": "/images/major-21-world.jpg",
+    "keywords": {
+      "upright": [
+        "완성",
+        "성취",
+        "통합"
+      ],
+      "reversed": [
+        "미완성",
+        "지연된 마무리",
+        "아쉬운 결말"
+      ]
+    },
+    "meaning": {
+      "upright": "하나의 긴 여정이 완전한 결실을 맺고 조화롭게 마무리되는 순간을 상징한다. 그동안 쌓아온 노력이 온전한 성취로 이어지며 다음 여정을 향한 문이 열림을 보여준다.",
+      "reversed": "마무리가 미뤄지거나 완성 직전에 아쉬운 매듭짓기를 하게 되는 상태를 나타낸다. 조금만 더 다듬으면 완성될 일을 성급히 끝내려 하지 않았는지 점검해야 한다."
+    }
+  },
+  {
+    "id": "minor-wands-01",
+    "name": "Ace of Wands",
+    "nameKo": "완드 에이스",
+    "arcana": "minor",
+    "suit": "wands",
+    "number": 1,
+    "rank": "ace",
+    "image": "/images/minor-wands-01-ace-of-wands.jpg",
+    "keywords": {
+      "upright": [
+        "새로운 열정",
+        "창조적 시작",
+        "영감"
+      ],
+      "reversed": [
+        "지연된 시작",
+        "동기 부족",
+        "흐려진 목표"
+      ]
+    },
+    "meaning": {
+      "upright": "가슴 뛰는 새로운 일이나 아이디어가 막 싹트는 순간을 상징한다. 강렬한 영감과 열정이 솟아나 무언가를 힘차게 시작할 준비가 되어 있음을 보여준다.",
+      "reversed": "하고 싶은 마음은 있지만 실행으로 옮기지 못하고 망설이는 상태를 나타낸다. 영감이 흐려지거나 여건이 갖춰지지 않아 시작이 자꾸 미뤄지고 있다."
+    }
+  },
+  {
+    "id": "minor-wands-02",
+    "name": "Two of Wands",
+    "nameKo": "완드 2",
+    "arcana": "minor",
+    "suit": "wands",
+    "number": 2,
+    "rank": "02",
+    "image": "/images/minor-wands-02-two-of-wands.jpg",
+    "keywords": {
+      "upright": [
+        "계획",
+        "미래에 대한 구상",
+        "선택의 기로"
+      ],
+      "reversed": [
+        "우유부단",
+        "계획 지연",
+        "두려움으로 인한 안주"
+      ]
+    },
+    "meaning": {
+      "upright": "첫걸음을 뗀 뒤 더 넓은 세상을 바라보며 다음 계획을 구체화하는 단계를 뜻한다. 손에 쥔 가능성을 놓고 신중하게 미래의 방향을 저울질하고 있음을 보여준다.",
+      "reversed": "선택의 기로에서 결정을 내리지 못하고 익숙한 자리에 머무르려는 태도를 나타낸다. 두려움 때문에 더 넓은 가능성으로 나아가기를 주저하고 있다."
+    }
+  },
+  {
+    "id": "minor-wands-03",
+    "name": "Three of Wands",
+    "nameKo": "완드 3",
+    "arcana": "minor",
+    "suit": "wands",
+    "number": 3,
+    "rank": "03",
+    "image": "/images/minor-wands-03-three-of-wands.jpg",
+    "keywords": {
+      "upright": [
+        "확장",
+        "결실을 기다림",
+        "장기적 전망"
+      ],
+      "reversed": [
+        "예상 밖의 지연",
+        "근시안적 시야",
+        "협력 부족"
+      ]
+    },
+    "meaning": {
+      "upright": "이미 던져놓은 계획이 결실을 맺기를 기다리며 시야를 더 넓혀가는 시기를 상징한다. 준비한 것들이 서서히 확장되어 더 큰 기회로 이어질 조짐을 보여준다.",
+      "reversed": "기대했던 진행이 뜻밖의 이유로 늦어지거나 시야가 좁아지는 상태를 나타낸다. 협력이 원활하지 않아 계획한 확장이 제자리걸음을 하고 있을 수 있다."
+    }
+  },
+  {
+    "id": "minor-wands-04",
+    "name": "Four of Wands",
+    "nameKo": "완드 4",
+    "arcana": "minor",
+    "suit": "wands",
+    "number": 4,
+    "rank": "04",
+    "image": "/images/minor-wands-04-four-of-wands.jpg",
+    "keywords": {
+      "upright": [
+        "축하",
+        "안정된 기반",
+        "화합"
+      ],
+      "reversed": [
+        "불안정한 기반",
+        "지연된 축하",
+        "내부 갈등"
+      ]
+    },
+    "meaning": {
+      "upright": "노력의 결실을 함께 나누며 축하하는 화합의 순간을 상징한다. 안정된 기반 위에서 관계나 성취가 편안하게 자리 잡았음을 보여준다.",
+      "reversed": "겉으로는 안정돼 보여도 내부에 해결되지 않은 갈등이 남아있는 상태를 나타낸다. 기대했던 화합이나 인정이 늦어져 아쉬움이 남을 수 있다."
+    }
+  },
+  {
+    "id": "minor-wands-05",
+    "name": "Five of Wands",
+    "nameKo": "완드 5",
+    "arcana": "minor",
+    "suit": "wands",
+    "number": 5,
+    "rank": "05",
+    "image": "/images/minor-wands-05-five-of-wands.jpg",
+    "keywords": {
+      "upright": [
+        "경쟁",
+        "의견 충돌",
+        "시험대"
+      ],
+      "reversed": [
+        "갈등 회피",
+        "긴장 완화",
+        "뒤늦은 타협"
+      ]
+    },
+    "meaning": {
+      "upright": "서로 다른 의견들이 부딪히며 치열한 경쟁이 벌어지는 상황을 뜻한다. 껄끄러운 다툼처럼 보여도 그 과정에서 각자의 역량이 시험대에 오르고 단련된다.",
+      "reversed": "계속되던 다툼이 잦아들거나 오히려 갈등을 피하려다 문제를 덮어두는 상태를 나타낸다. 뒤늦게라도 타협점을 찾으려는 움직임이 필요한 시기다."
+    }
+  },
+  {
+    "id": "minor-wands-06",
+    "name": "Six of Wands",
+    "nameKo": "완드 6",
+    "arcana": "minor",
+    "suit": "wands",
+    "number": 6,
+    "rank": "06",
+    "image": "/images/minor-wands-06-six-of-wands.jpg",
+    "keywords": {
+      "upright": [
+        "승리",
+        "인정",
+        "자신감"
+      ],
+      "reversed": [
+        "인정받지 못함",
+        "자만",
+        "미뤄진 승리"
+      ]
+    },
+    "meaning": {
+      "upright": "힘든 경쟁을 뚫고 얻어낸 성취를 사람들 앞에서 당당히 인정받는 순간을 상징한다. 그동안의 노력이 빛을 발하며 자신감과 명예를 함께 얻게 됨을 보여준다.",
+      "reversed": "노력한 만큼 인정받지 못하거나 승리가 예상보다 늦어지는 상태를 나타낸다. 자만심이 지나쳐 주변의 신뢰를 잃을 수 있으니 겸손함이 필요하다."
+    }
+  },
+  {
+    "id": "minor-wands-07",
+    "name": "Seven of Wands",
+    "nameKo": "완드 7",
+    "arcana": "minor",
+    "suit": "wands",
+    "number": 7,
+    "rank": "07",
+    "image": "/images/minor-wands-07-seven-of-wands.jpg",
+    "keywords": {
+      "upright": [
+        "방어",
+        "소신 지키기",
+        "유리한 고지"
+      ],
+      "reversed": [
+        "압박에 굴복",
+        "방어력 소진",
+        "자신감 상실"
+      ]
+    },
+    "meaning": {
+      "upright": "사방에서 도전받는 와중에도 자신의 자리를 굳건히 지켜내는 힘을 상징한다. 유리한 위치에서 소신을 지키며 도전에 맞서 싸울 준비가 되어 있음을 보여준다.",
+      "reversed": "계속되는 압박에 지쳐 버티던 힘이 꺾이거나 자신감을 잃는 상태를 나타낸다. 방어에만 몰두하다 정작 중요한 것을 놓치고 있지 않은지 살펴야 한다."
+    }
+  },
+  {
+    "id": "minor-wands-08",
+    "name": "Eight of Wands",
+    "nameKo": "완드 8",
+    "arcana": "minor",
+    "suit": "wands",
+    "number": 8,
+    "rank": "08",
+    "image": "/images/minor-wands-08-eight-of-wands.jpg",
+    "keywords": {
+      "upright": [
+        "빠른 진행",
+        "신속한 전달",
+        "흐름의 가속"
+      ],
+      "reversed": [
+        "지연",
+        "엇갈린 소통",
+        "성급한 진행"
+      ]
+    },
+    "meaning": {
+      "upright": "그동안 정체되어 있던 일들이 한꺼번에 빠르게 움직이기 시작하는 순간을 상징한다. 소식이나 진행이 신속하게 전달되며 상황이 급물살을 타게 됨을 보여준다.",
+      "reversed": "순조롭던 흐름이 갑자기 지체되거나 소통이 엇갈려 혼선이 생기는 상태를 나타낸다. 성급하게 서두르다 오히려 일을 그르칠 수 있으니 속도 조절이 필요하다."
+    }
+  },
+  {
+    "id": "minor-wands-09",
+    "name": "Nine of Wands",
+    "nameKo": "완드 9",
+    "arcana": "minor",
+    "suit": "wands",
+    "number": 9,
+    "rank": "09",
+    "image": "/images/minor-wands-09-nine-of-wands.jpg",
+    "keywords": {
+      "upright": [
+        "끈기",
+        "마지막 저항",
+        "경계심"
+      ],
+      "reversed": [
+        "소진",
+        "과도한 방어",
+        "포기 직전의 지침"
+      ]
+    },
+    "meaning": {
+      "upright": "여러 차례의 시련을 겪고도 마지막까지 버텨내는 끈기와 경계심을 상징한다. 지쳐 있지만 조금만 더 견디면 결실을 볼 수 있다는 것을 몸으로 알고 있는 상태다.",
+      "reversed": "반복된 시련에 완전히 지쳐 더 이상 버틸 힘이 남지 않은 상태를 나타낸다. 지나친 경계심이 오히려 스스로를 고립시키고 있을 수 있다."
+    }
+  },
+  {
+    "id": "minor-wands-10",
+    "name": "Ten of Wands",
+    "nameKo": "완드 10",
+    "arcana": "minor",
+    "suit": "wands",
+    "number": 10,
+    "rank": "10",
+    "image": "/images/minor-wands-10-ten-of-wands.jpg",
+    "keywords": {
+      "upright": [
+        "과중한 책임",
+        "부담",
+        "마무리를 앞둔 무게"
+      ],
+      "reversed": [
+        "짐 내려놓기",
+        "위임",
+        "번아웃"
+      ]
+    },
+    "meaning": {
+      "upright": "목표에 거의 다다랐지만 너무 많은 짐을 홀로 짊어지고 있는 상태를 상징한다. 책임감이 강한 만큼 부담도 커져 몸과 마음이 무겁게 눌려 있음을 보여준다.",
+      "reversed": "더 이상 감당하기 힘든 짐을 내려놓거나 다른 사람에게 나누어야 할 시점을 나타낸다. 무리하게 버티다 지쳐 쓰러지기 전에 우선순위를 정리할 필요가 있다."
+    }
+  },
+  {
+    "id": "minor-wands-page",
+    "name": "Page of Wands",
+    "nameKo": "완드 페이지",
+    "arcana": "minor",
+    "suit": "wands",
+    "number": null,
+    "rank": "page",
+    "image": "/images/minor-wands-page-page-of-wands.jpg",
+    "keywords": {
+      "upright": [
+        "호기심",
+        "새로운 소식",
+        "열정적인 탐구"
+      ],
+      "reversed": [
+        "성급한 결정",
+        "방향 없는 열정",
+        "미숙함"
+      ]
+    },
+    "meaning": {
+      "upright": "세상에 대한 순수한 호기심으로 새로운 모험을 탐색하는 젊은 에너지를 상징한다. 아직 서툴지만 열정 가득한 마음으로 새로운 소식이나 기회를 향해 다가감을 보여준다.",
+      "reversed": "충분히 생각하지 않고 성급하게 뛰어들거나 열정이 금방 식어버리는 상태를 나타낸다. 미숙한 판단으로 인해 계획했던 일이 흐트러질 수 있다."
+    }
+  },
+  {
+    "id": "minor-wands-knight",
+    "name": "Knight of Wands",
+    "nameKo": "완드 기사",
+    "arcana": "minor",
+    "suit": "wands",
+    "number": null,
+    "rank": "knight",
+    "image": "/images/minor-wands-knight-knight-of-wands.jpg",
+    "keywords": {
+      "upright": [
+        "대담한 행동",
+        "모험심",
+        "열정적 추진"
+      ],
+      "reversed": [
+        "성급함",
+        "무모한 충동",
+        "일관성 부족"
+      ]
+    },
+    "meaning": {
+      "upright": "두려움 없이 새로운 모험을 향해 거침없이 달려나가는 열정적인 에너지를 상징한다. 목표를 향한 강한 추진력으로 빠르게 상황을 밀어붙이는 힘을 보여준다.",
+      "reversed": "앞뒤를 재지 않고 무모하게 돌진하다 일을 그르치는 상태를 나타낸다. 열정이 오래가지 못하고 금세 다른 곳으로 관심이 옮겨갈 수 있다."
+    }
+  },
+  {
+    "id": "minor-wands-queen",
+    "name": "Queen of Wands",
+    "nameKo": "완드 여왕",
+    "arcana": "minor",
+    "suit": "wands",
+    "number": null,
+    "rank": "queen",
+    "image": "/images/minor-wands-queen-queen-of-wands.jpg",
+    "keywords": {
+      "upright": [
+        "자신감",
+        "매력적인 카리스마",
+        "독립성"
+      ],
+      "reversed": [
+        "질투",
+        "위축된 자신감",
+        "고압적인 태도"
+      ]
+    },
+    "meaning": {
+      "upright": "따뜻하면서도 강렬한 카리스마로 주변을 이끄는 자신감 넘치는 에너지를 상징한다. 독립적이고 활기찬 태도로 자신의 매력을 자연스럽게 드러내며 사람들을 끌어당긴다.",
+      "reversed": "자신감이 위축되거나 반대로 지나치게 고압적인 태도로 주변과 마찰을 빚는 상태를 나타낸다. 질투나 불안한 마음이 겉으로 드러나 관계에 영향을 줄 수 있다."
+    }
+  },
+  {
+    "id": "minor-wands-king",
+    "name": "King of Wands",
+    "nameKo": "완드 왕",
+    "arcana": "minor",
+    "suit": "wands",
+    "number": null,
+    "rank": "king",
+    "image": "/images/minor-wands-king-king-of-wands.jpg",
+    "keywords": {
+      "upright": [
+        "비전",
+        "결단력 있는 리더십",
+        "대담한 실행"
+      ],
+      "reversed": [
+        "독단적 태도",
+        "성급한 결정",
+        "통제 불능"
+      ]
+    },
+    "meaning": {
+      "upright": "명확한 비전을 가지고 사람들을 이끌며 대담하게 실행에 옮기는 리더십을 상징한다. 뛰어난 추진력과 카리스마로 큰 그림을 현실로 만들어가는 힘을 보여준다.",
+      "reversed": "자신의 뜻을 지나치게 밀어붙이거나 성급한 결정으로 주변과 갈등을 빚는 상태를 나타낸다. 강한 자존심 때문에 다른 사람의 의견을 듣지 못하고 있을 수 있다."
+    }
+  },
+  {
+    "id": "minor-cups-01",
+    "name": "Ace of Cups",
+    "nameKo": "컵 에이스",
+    "arcana": "minor",
+    "suit": "cups",
+    "number": 1,
+    "rank": "ace",
+    "image": "/images/minor-cups-01-ace-of-cups.jpg",
+    "keywords": {
+      "upright": [
+        "새로운 감정",
+        "사랑의 시작",
+        "마음의 충만함"
+      ],
+      "reversed": [
+        "억눌린 감정",
+        "공허함",
+        "어긋난 마음"
+      ]
+    },
+    "meaning": {
+      "upright": "마음속에 새로운 사랑이나 깊은 감정이 샘솟는 순간을 상징한다. 넘칠 듯한 애정과 정서적 충만함으로 관계나 마음이 새롭게 열리기 시작함을 보여준다.",
+      "reversed": "감정을 제대로 표현하지 못하거나 마음이 텅 빈 듯한 공허함을 느끼는 상태를 나타낸다. 기대했던 애정이 어긋나거나 마음의 문을 닫아버린 상태일 수 있다."
+    }
+  },
+  {
+    "id": "minor-cups-02",
+    "name": "Two of Cups",
+    "nameKo": "컵 2",
+    "arcana": "minor",
+    "suit": "cups",
+    "number": 2,
+    "rank": "02",
+    "image": "/images/minor-cups-02-two-of-cups.jpg",
+    "keywords": {
+      "upright": [
+        "상호적인 사랑",
+        "깊은 유대",
+        "진심 어린 연결"
+      ],
+      "reversed": [
+        "관계의 불균형",
+        "오해",
+        "어긋난 유대"
+      ]
+    },
+    "meaning": {
+      "upright": "서로를 향한 진심이 맞닿아 깊은 유대를 이루는 관계를 상징한다. 동등한 마음으로 주고받는 애정과 신뢰가 관계를 더욱 단단하게 만들어줌을 보여준다.",
+      "reversed": "한쪽으로 치우친 감정이나 오해로 관계에 균열이 생기는 상태를 나타낸다. 서로의 마음이 어긋나 신뢰를 회복하는 노력이 필요한 시기다."
+    }
+  },
+  {
+    "id": "minor-cups-03",
+    "name": "Three of Cups",
+    "nameKo": "컵 3",
+    "arcana": "minor",
+    "suit": "cups",
+    "number": 3,
+    "rank": "03",
+    "image": "/images/minor-cups-03-three-of-cups.jpg",
+    "keywords": {
+      "upright": [
+        "우정",
+        "함께하는 기쁨",
+        "공동체의 축하"
+      ],
+      "reversed": [
+        "소외감",
+        "갈등이 있는 모임",
+        "과도한 유흥"
+      ]
+    },
+    "meaning": {
+      "upright": "친밀한 사람들과 함께 기쁨을 나누며 우정을 다지는 즐거운 순간을 상징한다. 공동체 안에서 서로를 축하하고 지지하는 따뜻한 유대감을 보여준다.",
+      "reversed": "모임 안에서 소외감을 느끼거나 관계 속에 갈등이 스며드는 상태를 나타낸다. 즐거움을 좇다 지나쳐 오히려 관계나 건강에 무리가 갈 수 있다."
+    }
+  },
+  {
+    "id": "minor-cups-04",
+    "name": "Four of Cups",
+    "nameKo": "컵 4",
+    "arcana": "minor",
+    "suit": "cups",
+    "number": 4,
+    "rank": "04",
+    "image": "/images/minor-cups-04-four-of-cups.jpg",
+    "keywords": {
+      "upright": [
+        "권태",
+        "무관심",
+        "놓치고 있는 기회"
+      ],
+      "reversed": [
+        "새로운 자각",
+        "관심의 회복",
+        "기회 포착"
+      ]
+    },
+    "meaning": {
+      "upright": "이미 가진 것에 만족하지 못하고 권태로움에 빠져 있는 상태를 상징한다. 눈앞에 새로운 기회가 놓여 있어도 무관심하게 지나쳐 버릴 수 있음을 경고한다.",
+      "reversed": "무기력했던 마음이 서서히 깨어나며 놓치고 있던 것에 다시 관심을 갖는 상태를 나타낸다. 새로운 기회를 알아차리고 조금씩 움직이기 시작함을 보여준다."
+    }
+  },
+  {
+    "id": "minor-cups-05",
+    "name": "Five of Cups",
+    "nameKo": "컵 5",
+    "arcana": "minor",
+    "suit": "cups",
+    "number": 5,
+    "rank": "05",
+    "image": "/images/minor-cups-05-five-of-cups.jpg",
+    "keywords": {
+      "upright": [
+        "상실",
+        "후회",
+        "슬픔에 머무름"
+      ],
+      "reversed": [
+        "마음의 정리",
+        "상처로부터의 회복",
+        "앞으로 나아감"
+      ]
+    },
+    "meaning": {
+      "upright": "잃어버린 것에 마음이 머물러 슬픔과 후회에 잠겨 있는 상태를 상징한다. 엎질러진 일에 집착하느라 아직 남아 있는 것을 보지 못하고 있음을 보여준다.",
+      "reversed": "슬픔을 서서히 정리하고 상처에서 회복되어 다시 걸어 나가려는 의지를 나타낸다. 남아 있는 것에 눈을 돌리며 조금씩 마음의 평화를 되찾고 있다."
+    }
+  },
+  {
+    "id": "minor-cups-06",
+    "name": "Six of Cups",
+    "nameKo": "컵 6",
+    "arcana": "minor",
+    "suit": "cups",
+    "number": 6,
+    "rank": "06",
+    "image": "/images/minor-cups-06-six-of-cups.jpg",
+    "keywords": {
+      "upright": [
+        "추억",
+        "순수한 그리움",
+        "과거와의 재회"
+      ],
+      "reversed": [
+        "과거에 대한 집착",
+        "현실 도피",
+        "미성숙함"
+      ]
+    },
+    "meaning": {
+      "upright": "따뜻했던 지난 시절의 기억과 순수한 정을 되새기는 시간을 상징한다. 그리운 사람이나 익숙한 장소와의 재회가 마음에 위안을 주는 순간임을 보여준다.",
+      "reversed": "지나간 과거에 지나치게 매달려 현재를 외면하는 상태를 나타낸다. 어린아이 같은 미성숙한 태도로 현실의 책임을 회피하고 있을 수 있다."
+    }
+  },
+  {
+    "id": "minor-cups-07",
+    "name": "Seven of Cups",
+    "nameKo": "컵 7",
+    "arcana": "minor",
+    "suit": "cups",
+    "number": 7,
+    "rank": "07",
+    "image": "/images/minor-cups-07-seven-of-cups.jpg",
+    "keywords": {
+      "upright": [
+        "다양한 선택지",
+        "환상",
+        "몽상"
+      ],
+      "reversed": [
+        "명확해진 선택",
+        "환상에서 깨어남",
+        "현실적 결단"
+      ]
+    },
+    "meaning": {
+      "upright": "눈앞에 매력적인 선택지들이 가득하지만 무엇이 진짜인지 분간하기 어려운 상태를 상징한다. 화려한 상상에 취해 현실적인 판단을 미루고 있음을 보여준다.",
+      "reversed": "흐릿했던 환상에서 벗어나 진짜 원하는 것이 무엇인지 또렷해지는 상태를 나타낸다. 현실적인 기준으로 하나를 분명하게 선택할 힘이 생겼음을 보여준다."
+    }
+  },
+  {
+    "id": "minor-cups-08",
+    "name": "Eight of Cups",
+    "nameKo": "컵 8",
+    "arcana": "minor",
+    "suit": "cups",
+    "number": 8,
+    "rank": "08",
+    "image": "/images/minor-cups-08-eight-of-cups.jpg",
+    "keywords": {
+      "upright": [
+        "미련 없는 떠남",
+        "내면의 탐색",
+        "새로운 의미 찾기"
+      ],
+      "reversed": [
+        "미련이 남은 이탈",
+        "방황",
+        "돌아가고 싶은 마음"
+      ]
+    },
+    "meaning": {
+      "upright": "겉으로는 안정돼 보이는 것을 뒤로하고 더 깊은 의미를 찾아 떠나는 결단을 상징한다. 익숙함보다 진정한 만족을 좇아 스스로 새로운 길을 나서는 용기를 보여준다.",
+      "reversed": "떠나야 한다는 걸 알면서도 미련 때문에 망설이며 제자리를 맴도는 상태를 나타낸다. 확신 없이 방황하다 다시 예전 자리로 돌아가고 싶어질 수 있다."
+    }
+  },
+  {
+    "id": "minor-cups-09",
+    "name": "Nine of Cups",
+    "nameKo": "컵 9",
+    "arcana": "minor",
+    "suit": "cups",
+    "number": 9,
+    "rank": "09",
+    "image": "/images/minor-cups-09-nine-of-cups.jpg",
+    "keywords": {
+      "upright": [
+        "만족감",
+        "소망의 성취",
+        "정서적 충족"
+      ],
+      "reversed": [
+        "헛된 만족",
+        "과시욕",
+        "채워지지 않는 갈증"
+      ]
+    },
+    "meaning": {
+      "upright": "바라던 것들이 이루어져 마음 깊이 만족감을 느끼는 풍요로운 상태를 상징한다. 물질적으로나 정서적으로나 편안하고 충족된 시간을 누리고 있음을 보여준다.",
+      "reversed": "겉으로만 그럴듯한 만족에 취해 있거나 과시하려는 욕구가 앞서는 상태를 나타낸다. 진짜 원하는 것은 따로 있는데 헛헛한 마음을 채우지 못하고 있을 수 있다."
+    }
+  },
+  {
+    "id": "minor-cups-10",
+    "name": "Ten of Cups",
+    "nameKo": "컵 10",
+    "arcana": "minor",
+    "suit": "cups",
+    "number": 10,
+    "rank": "10",
+    "image": "/images/minor-cups-10-ten-of-cups.jpg",
+    "keywords": {
+      "upright": [
+        "화목한 가정",
+        "정서적 완성",
+        "지속적인 행복"
+      ],
+      "reversed": [
+        "깨어진 화합",
+        "이상과 현실의 괴리",
+        "불화"
+      ]
+    },
+    "meaning": {
+      "upright": "사랑하는 사람들과 함께 평온하고 행복한 결실을 누리는 순간을 상징한다. 오랫동안 바라온 정서적 안정과 화목함이 삶 속에 자리 잡았음을 보여준다.",
+      "reversed": "겉보기엔 평화로워도 속으로는 갈등이 자라고 있는 상태를 나타낸다. 그리던 이상적인 모습과 실제 현실 사이에 괴리가 생겨 실망감을 느낄 수 있다."
+    }
+  },
+  {
+    "id": "minor-cups-page",
+    "name": "Page of Cups",
+    "nameKo": "컵 페이지",
+    "arcana": "minor",
+    "suit": "cups",
+    "number": null,
+    "rank": "page",
+    "image": "/images/minor-cups-page-page-of-cups.jpg",
+    "keywords": {
+      "upright": [
+        "감성적 메시지",
+        "순수한 상상력",
+        "새로운 감정의 발견"
+      ],
+      "reversed": [
+        "감정 기복",
+        "미숙한 표현",
+        "실망스러운 소식"
+      ]
+    },
+    "meaning": {
+      "upright": "여리고 순수한 마음으로 새로운 감정이나 창의적인 영감을 받아들이는 상태를 상징한다. 다정한 소식이나 예상치 못한 설렘이 찾아올 수 있음을 보여준다.",
+      "reversed": "감정 기복이 심하거나 자신의 마음을 서툴게 표현해 오해를 사는 상태를 나타낸다. 기대했던 소식이 실망스럽게 다가올 수 있으니 마음의 준비가 필요하다."
+    }
+  },
+  {
+    "id": "minor-cups-knight",
+    "name": "Knight of Cups",
+    "nameKo": "컵 기사",
+    "arcana": "minor",
+    "suit": "cups",
+    "number": null,
+    "rank": "knight",
+    "image": "/images/minor-cups-knight-knight-of-cups.jpg",
+    "keywords": {
+      "upright": [
+        "낭만적 제안",
+        "이상을 좇는 마음",
+        "다정한 접근"
+      ],
+      "reversed": [
+        "감정적인 변덕",
+        "비현실적인 약속",
+        "실망"
+      ]
+    },
+    "meaning": {
+      "upright": "낭만적인 이상을 품고 진심을 담아 다가가는 다정한 태도를 상징한다. 감성적이고 부드러운 방식으로 사랑이나 창조적인 제안을 건네는 순간을 보여준다.",
+      "reversed": "달콤한 말만 앞세우고 행동이 뒤따르지 않는 변덕스러운 태도를 나타낸다. 비현실적인 약속에 기대었다가 실망으로 끝날 수 있음을 경고한다."
+    }
+  },
+  {
+    "id": "minor-cups-queen",
+    "name": "Queen of Cups",
+    "nameKo": "컵 여왕",
+    "arcana": "minor",
+    "suit": "cups",
+    "number": null,
+    "rank": "queen",
+    "image": "/images/minor-cups-queen-queen-of-cups.jpg",
+    "keywords": {
+      "upright": [
+        "깊은 공감",
+        "정서적 안정",
+        "포용력"
+      ],
+      "reversed": [
+        "감정 과잉",
+        "정서적 불안정",
+        "자기희생"
+      ]
+    },
+    "meaning": {
+      "upright": "따뜻한 공감 능력으로 주변 사람들의 마음을 세심하게 헤아리는 성숙한 감성을 상징한다. 흔들림 없는 정서적 안정 속에서 다른 이들을 포근하게 감싸 안는 힘을 보여준다.",
+      "reversed": "감정에 지나치게 휩쓸리거나 다른 사람을 위해 스스로를 희생하는 상태를 나타낸다. 정서적으로 불안정해져 경계가 흐려지고 있음을 점검해야 한다."
+    }
+  },
+  {
+    "id": "minor-cups-king",
+    "name": "King of Cups",
+    "nameKo": "컵 왕",
+    "arcana": "minor",
+    "suit": "cups",
+    "number": null,
+    "rank": "king",
+    "image": "/images/minor-cups-king-king-of-cups.jpg",
+    "keywords": {
+      "upright": [
+        "감정의 성숙한 통제",
+        "침착함",
+        "관대한 마음"
+      ],
+      "reversed": [
+        "감정 억제",
+        "냉담함",
+        "숨겨진 동요"
+      ]
+    },
+    "meaning": {
+      "upright": "깊은 감정을 지니고 있으면서도 침착하고 지혜롭게 다스리는 성숙함을 상징한다. 관대하고 안정된 태도로 주변 사람들에게 신뢰를 주는 어른스러운 힘을 보여준다.",
+      "reversed": "감정을 지나치게 억누르거나 겉으로만 태연한 척하는 냉담한 태도를 나타낸다. 속으로는 흔들리고 있으면서 겉으로 드러내지 못해 관계에 거리가 생길 수 있다."
+    }
+  },
+  {
+    "id": "minor-swords-01",
+    "name": "Ace of Swords",
+    "nameKo": "검 에이스",
+    "arcana": "minor",
+    "suit": "swords",
+    "number": 1,
+    "rank": "ace",
+    "image": "/images/minor-swords-01-ace-of-swords.jpg",
+    "keywords": {
+      "upright": [
+        "명료한 통찰",
+        "진실",
+        "결단력"
+      ],
+      "reversed": [
+        "혼란스러운 판단",
+        "왜곡된 정보",
+        "성급한 결론"
+      ]
+    },
+    "meaning": {
+      "upright": "복잡했던 생각이 명료하게 정리되며 진실을 꿰뚫어 보는 통찰의 순간을 상징한다. 날카로운 판단력으로 핵심을 파악하고 확신을 갖고 결단할 수 있음을 보여준다.",
+      "reversed": "생각이 뒤엉켜 명확한 판단을 내리기 어렵거나 잘못된 정보에 휘둘리는 상태를 나타낸다. 성급한 결론이 오히려 혼란을 키울 수 있으니 신중함이 필요하다."
+    }
+  },
+  {
+    "id": "minor-swords-02",
+    "name": "Two of Swords",
+    "nameKo": "검 2",
+    "arcana": "minor",
+    "suit": "swords",
+    "number": 2,
+    "rank": "02",
+    "image": "/images/minor-swords-02-two-of-swords.jpg",
+    "keywords": {
+      "upright": [
+        "팽팽한 균형",
+        "결정 보류",
+        "회피하는 진실"
+      ],
+      "reversed": [
+        "억눌린 갈등의 폭발",
+        "정보 과부하",
+        "결단의 시점"
+      ]
+    },
+    "meaning": {
+      "upright": "어려운 결정을 앞두고 눈을 가린 채 균형을 유지하려는 상태를 상징한다. 마주하기 힘든 진실을 애써 외면하며 판단을 미루고 있음을 보여준다.",
+      "reversed": "더 이상 미룰 수 없을 만큼 갈등이 쌓여 결단을 내려야 하는 시점을 나타낸다. 억눌러왔던 문제가 한꺼번에 드러나 혼란스러워질 수 있다."
+    }
+  },
+  {
+    "id": "minor-swords-03",
+    "name": "Three of Swords",
+    "nameKo": "검 3",
+    "arcana": "minor",
+    "suit": "swords",
+    "number": 3,
+    "rank": "03",
+    "image": "/images/minor-swords-03-three-of-swords.jpg",
+    "keywords": {
+      "upright": [
+        "마음의 상처",
+        "이별의 아픔",
+        "냉정한 진실"
+      ],
+      "reversed": [
+        "치유의 시작",
+        "상처로부터의 회복",
+        "용서"
+      ]
+    },
+    "meaning": {
+      "upright": "날카로운 말이나 배신으로 인해 마음 깊이 상처를 입는 순간을 상징한다. 아프지만 외면할 수 없는 진실을 마주하며 슬픔을 그대로 느끼고 있음을 보여준다.",
+      "reversed": "아팠던 상처가 조금씩 아물며 회복의 길로 들어서는 상태를 나타낸다. 용서와 이해를 통해 무거웠던 마음의 짐을 서서히 내려놓기 시작한다."
+    }
+  },
+  {
+    "id": "minor-swords-04",
+    "name": "Four of Swords",
+    "nameKo": "검 4",
+    "arcana": "minor",
+    "suit": "swords",
+    "number": 4,
+    "rank": "04",
+    "image": "/images/minor-swords-04-four-of-swords.jpg",
+    "keywords": {
+      "upright": [
+        "휴식",
+        "회복의 시간",
+        "재정비"
+      ],
+      "reversed": [
+        "강요된 재개",
+        "불안한 휴식",
+        "지친 재출발"
+      ]
+    },
+    "meaning": {
+      "upright": "치열했던 다툼이나 생각에서 잠시 물러나 조용히 쉬며 재정비하는 시간을 상징한다. 몸과 마음을 회복시키는 휴식이 다음 도약을 위한 밑거름이 됨을 보여준다.",
+      "reversed": "충분히 쉬지 못한 채 서둘러 다시 움직여야 하는 상태를 나타낸다. 불안한 마음으로 재출발해 온전히 회복되지 못한 채 지친 상태일 수 있다."
+    }
+  },
+  {
+    "id": "minor-swords-05",
+    "name": "Five of Swords",
+    "nameKo": "검 5",
+    "arcana": "minor",
+    "suit": "swords",
+    "number": 5,
+    "rank": "05",
+    "image": "/images/minor-swords-05-five-of-swords.jpg",
+    "keywords": {
+      "upright": [
+        "갈등에서의 승리",
+        "공허한 이김",
+        "긴장된 관계"
+      ],
+      "reversed": [
+        "화해의 시도",
+        "뒤늦은 후회",
+        "관계 회복"
+      ]
+    },
+    "meaning": {
+      "upright": "다툼에서는 이겼지만 그 과정에서 관계가 상하고 마음이 씁쓸해지는 상태를 상징한다. 이기기 위해 치른 대가가 생각보다 컸음을 뒤늦게 깨닫게 됨을 보여준다.",
+      "reversed": "지나간 갈등을 뒤로하고 화해나 관계 회복을 시도하려는 움직임을 나타낸다. 이기고 지는 것보다 관계 자체가 더 소중함을 깨닫는 시기다."
+    }
+  },
+  {
+    "id": "minor-swords-06",
+    "name": "Six of Swords",
+    "nameKo": "검 6",
+    "arcana": "minor",
+    "suit": "swords",
+    "number": 6,
+    "rank": "06",
+    "image": "/images/minor-swords-06-six-of-swords.jpg",
+    "keywords": {
+      "upright": [
+        "어려움에서 벗어남",
+        "변화로의 이행",
+        "조용한 회복"
+      ],
+      "reversed": [
+        "벗어나지 못한 과거",
+        "정체된 상황",
+        "미련"
+      ]
+    },
+    "meaning": {
+      "upright": "힘들었던 상황을 뒤로하고 더 평온한 곳을 향해 서서히 나아가는 이행의 순간을 상징한다. 완전히 홀가분하진 않아도 조금씩 마음의 짐을 덜어내며 회복해가고 있음을 보여준다.",
+      "reversed": "벗어나야 할 상황에서 발이 묶여 앞으로 나아가지 못하는 상태를 나타낸다. 과거에 대한 미련이 남아 새로운 국면으로 넘어가기를 주저하고 있다."
+    }
+  },
+  {
+    "id": "minor-swords-07",
+    "name": "Seven of Swords",
+    "nameKo": "검 7",
+    "arcana": "minor",
+    "suit": "swords",
+    "number": 7,
+    "rank": "07",
+    "image": "/images/minor-swords-07-seven-of-swords.jpg",
+    "keywords": {
+      "upright": [
+        "전략적 회피",
+        "은밀함",
+        "신뢰의 문제"
+      ],
+      "reversed": [
+        "드러난 진실",
+        "뒤늦은 발각",
+        "정직으로의 전환"
+      ]
+    },
+    "meaning": {
+      "upright": "정면으로 부딪히기보다 은밀하고 영리한 방법으로 상황을 빠져나가려는 태도를 상징한다. 완전히 떳떳하지 못한 방식으로 자신의 이익을 챙기려는 마음을 보여준다.",
+      "reversed": "숨겨왔던 행동이나 거짓이 결국 드러나는 상태를 나타낸다. 더 이상 감출 수 없게 된 진실 앞에서 정직하게 마주해야 할 시점이 왔음을 보여준다."
+    }
+  },
+  {
+    "id": "minor-swords-08",
+    "name": "Eight of Swords",
+    "nameKo": "검 8",
+    "arcana": "minor",
+    "suit": "swords",
+    "number": 8,
+    "rank": "08",
+    "image": "/images/minor-swords-08-eight-of-swords.jpg",
+    "keywords": {
+      "upright": [
+        "스스로 만든 속박",
+        "무력감",
+        "갇힌 사고"
+      ],
+      "reversed": [
+        "속박에서 벗어남",
+        "사고의 전환",
+        "자기 해방"
+      ]
+    },
+    "meaning": {
+      "upright": "실제로는 벗어날 방법이 있음에도 스스로의 생각에 갇혀 무력감을 느끼는 상태를 상징한다. 두려움이 만들어낸 제한된 시야가 스스로를 옭아매고 있음을 보여준다.",
+      "reversed": "자신을 가두던 생각의 틀에서 벗어나 조금씩 자유를 되찾는 상태를 나타낸다. 관점을 바꾸는 순간 길이 다시 보이기 시작함을 보여준다."
+    }
+  },
+  {
+    "id": "minor-swords-09",
+    "name": "Nine of Swords",
+    "nameKo": "검 9",
+    "arcana": "minor",
+    "suit": "swords",
+    "number": 9,
+    "rank": "09",
+    "image": "/images/minor-swords-09-nine-of-swords.jpg",
+    "keywords": {
+      "upright": [
+        "깊은 불안",
+        "악몽 같은 걱정",
+        "죄책감"
+      ],
+      "reversed": [
+        "불안의 완화",
+        "걱정에서 벗어남",
+        "마음의 정리"
+      ]
+    },
+    "meaning": {
+      "upright": "밤잠을 설칠 만큼 깊은 걱정과 불안에 시달리는 상태를 상징한다. 머릿속에서 최악의 상황을 반복해서 그리며 스스로를 괴롭히고 있음을 보여준다.",
+      "reversed": "짓눌렀던 불안이 서서히 가라앉고 마음의 짐을 정리해가는 상태를 나타낸다. 걱정이 실제보다 부풀려져 있었음을 깨달으며 안도하게 됨을 보여준다."
+    }
+  },
+  {
+    "id": "minor-swords-10",
+    "name": "Ten of Swords",
+    "nameKo": "검 10",
+    "arcana": "minor",
+    "suit": "swords",
+    "number": 10,
+    "rank": "10",
+    "image": "/images/minor-swords-10-ten-of-swords.jpg",
+    "keywords": {
+      "upright": [
+        "고통스러운 종결",
+        "배신",
+        "바닥을 친 상황"
+      ],
+      "reversed": [
+        "회복의 시작",
+        "최악을 지나감",
+        "새로운 시작의 예고"
+      ]
+    },
+    "meaning": {
+      "upright": "더는 버틸 수 없을 만큼 철저하게 무너진 고통스러운 끝을 상징한다. 배신이나 완전한 실패처럼 느껴지지만 이미 바닥을 쳤기에 이보다 나빠질 수 없는 지점이기도 하다.",
+      "reversed": "최악의 상황을 지나 서서히 회복의 기미가 보이는 상태를 나타낸다. 고통스러웠던 국면이 끝나고 새로운 시작을 준비할 힘이 조금씩 생겨남을 보여준다."
+    }
+  },
+  {
+    "id": "minor-swords-page",
+    "name": "Page of Swords",
+    "nameKo": "검 페이지",
+    "arcana": "minor",
+    "suit": "swords",
+    "number": null,
+    "rank": "page",
+    "image": "/images/minor-swords-page-page-of-swords.jpg",
+    "keywords": {
+      "upright": [
+        "호기심 어린 관찰",
+        "예리한 생각",
+        "새로운 정보"
+      ],
+      "reversed": [
+        "성급한 말",
+        "근거 없는 소문",
+        "미숙한 판단"
+      ]
+    },
+    "meaning": {
+      "upright": "날카로운 호기심으로 주변을 관찰하고 새로운 정보를 빠르게 습득하는 상태를 상징한다. 예리한 눈썰미로 남들이 놓친 것을 알아채는 영민함을 보여준다.",
+      "reversed": "충분히 확인하지 않은 채 성급하게 말을 옮기거나 근거 없는 소문에 휘둘리는 상태를 나타낸다. 미숙한 판단으로 오해를 불러일으킬 수 있으니 주의가 필요하다."
+    }
+  },
+  {
+    "id": "minor-swords-knight",
+    "name": "Knight of Swords",
+    "nameKo": "검 기사",
+    "arcana": "minor",
+    "suit": "swords",
+    "number": null,
+    "rank": "knight",
+    "image": "/images/minor-swords-knight-knight-of-swords.jpg",
+    "keywords": {
+      "upright": [
+        "신속한 행동",
+        "직진하는 결단력",
+        "논쟁적 태도"
+      ],
+      "reversed": [
+        "무모한 돌진",
+        "경솔한 언행",
+        "방향성 상실"
+      ]
+    },
+    "meaning": {
+      "upright": "목표를 향해 거침없이 돌진하며 빠르게 결단을 내리는 추진력을 상징한다. 명확한 논리로 자신의 뜻을 밀어붙이는 단호한 태도를 보여준다.",
+      "reversed": "앞뒤 재지 않고 무모하게 밀어붙이다 갈등을 일으키는 상태를 나타낸다. 성급한 말과 행동이 관계에 상처를 남기고 방향을 잃게 만들 수 있다."
+    }
+  },
+  {
+    "id": "minor-swords-queen",
+    "name": "Queen of Swords",
+    "nameKo": "검 여왕",
+    "arcana": "minor",
+    "suit": "swords",
+    "number": null,
+    "rank": "queen",
+    "image": "/images/minor-swords-queen-queen-of-swords.jpg",
+    "keywords": {
+      "upright": [
+        "명석한 판단",
+        "솔직함",
+        "독립적인 사고"
+      ],
+      "reversed": [
+        "냉소적 태도",
+        "날카로운 비판",
+        "감정적 거리"
+      ]
+    },
+    "meaning": {
+      "upright": "감정에 흔들리지 않고 명확하고 솔직하게 상황을 판단하는 지적인 힘을 상징한다. 독립적인 사고와 냉철한 시선으로 정확한 조언을 건넬 수 있음을 보여준다.",
+      "reversed": "지나치게 날카로운 말이나 냉소적인 태도로 상대에게 상처를 주는 상태를 나타낸다. 감정적으로 거리를 두다 오히려 고립되고 있을 수 있다."
+    }
+  },
+  {
+    "id": "minor-swords-king",
+    "name": "King of Swords",
+    "nameKo": "검 왕",
+    "arcana": "minor",
+    "suit": "swords",
+    "number": null,
+    "rank": "king",
+    "image": "/images/minor-swords-king-king-of-swords.jpg",
+    "keywords": {
+      "upright": [
+        "논리적 권위",
+        "공정한 판단",
+        "명확한 원칙"
+      ],
+      "reversed": [
+        "독단적 사고",
+        "권위 남용",
+        "융통성 부족"
+      ]
+    },
+    "meaning": {
+      "upright": "감정에 치우치지 않고 논리와 원칙에 따라 공정하게 판단을 내리는 권위를 상징한다. 명료한 사고와 확고한 기준으로 신뢰받는 결정을 내릴 수 있음을 보여준다.",
+      "reversed": "자신의 논리만을 고집하며 다른 관점을 받아들이지 않는 독단적인 태도를 나타낸다. 권위를 앞세워 융통성 없이 밀어붙이다 갈등을 키울 수 있다."
+    }
+  },
+  {
+    "id": "minor-pentacles-01",
+    "name": "Ace of Pentacles",
+    "nameKo": "펜타클 에이스",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "number": 1,
+    "rank": "ace",
+    "image": "/images/minor-pentacles-01-ace-of-pentacles.jpg",
+    "keywords": {
+      "upright": [
+        "물질적 시작",
+        "새로운 기회",
+        "안정의 씨앗"
+      ],
+      "reversed": [
+        "놓친 기회",
+        "불안정한 기반",
+        "성급한 투자"
+      ]
+    },
+    "meaning": {
+      "upright": "현실적인 결실로 이어질 수 있는 새로운 기회의 씨앗이 손에 쥐어지는 순간을 상징한다. 안정적인 토대를 다질 수 있는 물질적 시작이 눈앞에 열려 있음을 보여준다.",
+      "reversed": "좋은 기회를 알아보지 못하고 흘려보내거나 준비 없이 성급하게 투자하는 상태를 나타낸다. 기반이 불안정해 애써 시작한 일이 흔들릴 수 있음을 경고한다."
+    }
+  },
+  {
+    "id": "minor-pentacles-02",
+    "name": "Two of Pentacles",
+    "nameKo": "펜타클 2",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "number": 2,
+    "rank": "02",
+    "image": "/images/minor-pentacles-02-two-of-pentacles.jpg",
+    "keywords": {
+      "upright": [
+        "균형 잡힌 조율",
+        "다중 과제",
+        "유연한 대처"
+      ],
+      "reversed": [
+        "균형 상실",
+        "과중한 부담",
+        "우선순위 혼란"
+      ]
+    },
+    "meaning": {
+      "upright": "여러 가지 일을 동시에 저글링하듯 능숙하게 조율해내는 유연함을 상징한다. 변화하는 상황 속에서도 균형을 잃지 않고 침착하게 대처하는 능력을 보여준다.",
+      "reversed": "감당할 수 있는 범위를 넘어서는 일들로 균형이 무너지는 상태를 나타낸다. 우선순위가 뒤엉켜 정작 중요한 것을 놓치고 있을 수 있다."
+    }
+  },
+  {
+    "id": "minor-pentacles-03",
+    "name": "Three of Pentacles",
+    "nameKo": "펜타클 3",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "number": 3,
+    "rank": "03",
+    "image": "/images/minor-pentacles-03-three-of-pentacles.jpg",
+    "keywords": {
+      "upright": [
+        "협업",
+        "숙련된 기술",
+        "인정받는 실력"
+      ],
+      "reversed": [
+        "팀워크 부재",
+        "낮은 완성도",
+        "의견 충돌"
+      ]
+    },
+    "meaning": {
+      "upright": "각자의 전문성을 모아 협력하며 견고한 결과물을 만들어가는 과정을 상징한다. 숙련된 실력을 바탕으로 함께 일한 성과가 주변으로부터 인정받게 됨을 보여준다.",
+      "reversed": "협업이 원활하지 않거나 팀 안에서 의견이 어긋나 결과물의 완성도가 떨어지는 상태를 나타낸다. 서로의 역할과 기준이 맞지 않아 마찰이 생길 수 있다."
+    }
+  },
+  {
+    "id": "minor-pentacles-04",
+    "name": "Four of Pentacles",
+    "nameKo": "펜타클 4",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "number": 4,
+    "rank": "04",
+    "image": "/images/minor-pentacles-04-four-of-pentacles.jpg",
+    "keywords": {
+      "upright": [
+        "소유욕",
+        "안정 추구",
+        "보수적인 태도"
+      ],
+      "reversed": [
+        "지나친 집착",
+        "인색함",
+        "통제에서 벗어남"
+      ]
+    },
+    "meaning": {
+      "upright": "애써 쌓은 것을 지키기 위해 단단히 움켜쥐고 안정을 추구하는 상태를 상징한다. 신중하고 보수적인 태도로 자산과 기반을 견고히 지켜내려 함을 보여준다.",
+      "reversed": "소유에 대한 집착이 지나쳐 인색해지거나 변화를 두려워하는 상태를 나타낸다. 움켜쥔 것을 조금 놓아야 오히려 더 큰 여유를 얻을 수 있음을 시사한다."
+    }
+  },
+  {
+    "id": "minor-pentacles-05",
+    "name": "Five of Pentacles",
+    "nameKo": "펜타클 5",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "number": 5,
+    "rank": "05",
+    "image": "/images/minor-pentacles-05-five-of-pentacles.jpg",
+    "keywords": {
+      "upright": [
+        "경제적 어려움",
+        "소외감",
+        "결핍의 시기"
+      ],
+      "reversed": [
+        "회복의 조짐",
+        "도움의 손길",
+        "어려움의 극복"
+      ]
+    },
+    "meaning": {
+      "upright": "물질적으로나 정서적으로 궁핍하고 소외된 듯한 힘겨운 시기를 상징한다. 어려운 상황 속에서도 가까이에 도움의 손길이 있다는 것을 놓치고 있을 수 있음을 보여준다.",
+      "reversed": "힘들었던 시기가 서서히 지나가고 회복의 조짐이 보이는 상태를 나타낸다. 주변의 도움을 받아들이며 어려움을 딛고 일어서기 시작함을 보여준다."
+    }
+  },
+  {
+    "id": "minor-pentacles-06",
+    "name": "Six of Pentacles",
+    "nameKo": "펜타클 6",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "number": 6,
+    "rank": "06",
+    "image": "/images/minor-pentacles-06-six-of-pentacles.jpg",
+    "keywords": {
+      "upright": [
+        "나눔",
+        "균형 잡힌 베풂",
+        "도움 주고받기"
+      ],
+      "reversed": [
+        "불공정한 거래",
+        "일방적인 시혜",
+        "조건부 도움"
+      ]
+    },
+    "meaning": {
+      "upright": "가진 것을 나누며 주고받는 균형 잡힌 관계를 상징한다. 넉넉한 마음으로 도움을 베풀거나 필요한 순간 도움을 받는 공정한 흐름을 보여준다.",
+      "reversed": "도움의 손길에 조건이나 대가가 숨어 있거나 나눔의 균형이 한쪽으로 치우치는 상태를 나타낸다. 관계 속 힘의 불균형을 점검해봐야 한다."
+    }
+  },
+  {
+    "id": "minor-pentacles-07",
+    "name": "Seven of Pentacles",
+    "nameKo": "펜타클 7",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "number": 7,
+    "rank": "07",
+    "image": "/images/minor-pentacles-07-seven-of-pentacles.jpg",
+    "keywords": {
+      "upright": [
+        "인내",
+        "결실을 위한 기다림",
+        "노력의 재평가"
+      ],
+      "reversed": [
+        "조급함",
+        "성과 없는 노력",
+        "방향 재설정 필요"
+      ]
+    },
+    "meaning": {
+      "upright": "꾸준히 쏟아온 노력이 결실을 맺기까지 인내심을 갖고 기다리는 시기를 상징한다. 지금까지의 성과를 차분히 돌아보며 앞으로의 방향을 점검하는 시간이기도 하다.",
+      "reversed": "기다림에 지쳐 조급해지거나 노력한 만큼 성과가 보이지 않아 답답한 상태를 나타낸다. 지금까지의 방식을 재검토하고 다른 접근이 필요할 수 있다."
+    }
+  },
+  {
+    "id": "minor-pentacles-08",
+    "name": "Eight of Pentacles",
+    "nameKo": "펜타클 8",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "number": 8,
+    "rank": "08",
+    "image": "/images/minor-pentacles-08-eight-of-pentacles.jpg",
+    "keywords": {
+      "upright": [
+        "장인정신",
+        "성실한 연마",
+        "세부에 대한 집중"
+      ],
+      "reversed": [
+        "매너리즘",
+        "성의 없는 반복",
+        "완성도 저하"
+      ]
+    },
+    "meaning": {
+      "upright": "한 가지 기술을 꾸준히 갈고닦아 완성도를 높여가는 성실한 장인정신을 상징한다. 세부적인 부분까지 정성을 쏟으며 실력을 착실히 쌓아가고 있음을 보여준다.",
+      "reversed": "반복되는 일에 흥미를 잃고 대충 처리하려는 매너리즘 상태를 나타낸다. 정성이 빠진 채 형식적으로 반복하다 결과물의 완성도가 떨어질 수 있다."
+    }
+  },
+  {
+    "id": "minor-pentacles-09",
+    "name": "Nine of Pentacles",
+    "nameKo": "펜타클 9",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "number": 9,
+    "rank": "09",
+    "image": "/images/minor-pentacles-09-nine-of-pentacles.jpg",
+    "keywords": {
+      "upright": [
+        "독립적인 풍요",
+        "자립",
+        "스스로 일군 성취"
+      ],
+      "reversed": [
+        "과도한 고립",
+        "의존",
+        "불안정한 풍요"
+      ]
+    },
+    "meaning": {
+      "upright": "스스로의 노력으로 일군 안정과 풍요를 홀로 만끽하는 여유로운 상태를 상징한다. 누구에게도 기대지 않고 이룬 자립이 진정한 만족감을 준다는 것을 보여준다.",
+      "reversed": "홀로 있는 시간이 지나쳐 고립감을 느끼거나 반대로 남에게 지나치게 의존하는 상태를 나타낸다. 겉으로 보이는 풍요가 실제로는 불안정할 수 있다."
+    }
+  },
+  {
+    "id": "minor-pentacles-10",
+    "name": "Ten of Pentacles",
+    "nameKo": "펜타클 10",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "number": 10,
+    "rank": "10",
+    "image": "/images/minor-pentacles-10-ten-of-pentacles.jpg",
+    "keywords": {
+      "upright": [
+        "대대로 이어지는 풍요",
+        "가문의 안정",
+        "장기적 유산"
+      ],
+      "reversed": [
+        "재정적 갈등",
+        "불안정한 유산",
+        "가족 간 분쟁"
+      ]
+    },
+    "meaning": {
+      "upright": "한 세대를 넘어 오래도록 이어지는 안정과 풍요, 그리고 가족 공동체의 결실을 상징한다. 오랜 시간 쌓아온 기반이 다음 세대에까지 든든하게 전해짐을 보여준다.",
+      "reversed": "재산이나 유산을 둘러싼 갈등, 혹은 가족 간의 불화로 안정이 흔들리는 상태를 나타낸다. 오래 쌓아온 기반에 균열이 생기지 않도록 관계를 살펴야 한다."
+    }
+  },
+  {
+    "id": "minor-pentacles-page",
+    "name": "Page of Pentacles",
+    "nameKo": "펜타클 페이지",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "number": null,
+    "rank": "page",
+    "image": "/images/minor-pentacles-page-page-of-pentacles.jpg",
+    "keywords": {
+      "upright": [
+        "배움에 대한 열의",
+        "착실한 계획",
+        "새로운 기회 탐색"
+      ],
+      "reversed": [
+        "산만함",
+        "비현실적인 계획",
+        "나태함"
+      ]
+    },
+    "meaning": {
+      "upright": "새로운 지식이나 기술을 배우려는 성실하고 진지한 태도를 상징한다. 현실적인 목표를 향해 차근차근 계획을 세우며 착실하게 나아가고 있음을 보여준다.",
+      "reversed": "집중력이 흐트러지거나 계획이 비현실적이어서 진전이 더딘 상태를 나타낸다. 배움에 대한 열의가 식어 나태해지고 있을 수 있다."
+    }
+  },
+  {
+    "id": "minor-pentacles-knight",
+    "name": "Knight of Pentacles",
+    "nameKo": "펜타클 기사",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "number": null,
+    "rank": "knight",
+    "image": "/images/minor-pentacles-knight-knight-of-pentacles.jpg",
+    "keywords": {
+      "upright": [
+        "성실함",
+        "꾸준한 노력",
+        "신중한 진행"
+      ],
+      "reversed": [
+        "정체",
+        "지나친 신중함",
+        "융통성 부족"
+      ]
+    },
+    "meaning": {
+      "upright": "서두르지 않고 꾸준하고 성실하게 목표를 향해 나아가는 신중한 태도를 상징한다. 책임감 있게 맡은 일을 착실히 완수해내는 믿음직한 힘을 보여준다.",
+      "reversed": "지나치게 신중한 나머지 변화 없이 제자리에 머무는 정체 상태를 나타낸다. 융통성 없는 태도로 새로운 기회를 놓치고 있을 수 있다."
+    }
+  },
+  {
+    "id": "minor-pentacles-queen",
+    "name": "Queen of Pentacles",
+    "nameKo": "펜타클 여왕",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "number": null,
+    "rank": "queen",
+    "image": "/images/minor-pentacles-queen-queen-of-pentacles.jpg",
+    "keywords": {
+      "upright": [
+        "실용적인 보살핌",
+        "풍요로운 살림",
+        "안정된 현실감각"
+      ],
+      "reversed": [
+        "일과 삶의 불균형",
+        "물질적 걱정",
+        "자기 돌봄 소홀"
+      ]
+    },
+    "meaning": {
+      "upright": "현실적인 감각으로 가정과 일을 넉넉하게 꾸려가는 포근한 보살핌을 상징한다. 실용적인 태도로 안정과 풍요를 만들어내며 주변을 세심하게 돌보는 힘을 보여준다.",
+      "reversed": "일과 삶의 균형이 무너지거나 물질적인 걱정에 마음이 쓰이는 상태를 나타낸다. 남을 돌보느라 정작 자기 자신을 챙기지 못하고 있을 수 있다."
+    }
+  },
+  {
+    "id": "minor-pentacles-king",
+    "name": "King of Pentacles",
+    "nameKo": "펜타클 왕",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "number": null,
+    "rank": "king",
+    "image": "/images/minor-pentacles-king-king-of-pentacles.jpg",
+    "keywords": {
+      "upright": [
+        "물질적 성공",
+        "안정된 리더십",
+        "든든한 기반"
+      ],
+      "reversed": [
+        "물질 만능주의",
+        "완고함",
+        "성공에 대한 집착"
+      ]
+    },
+    "meaning": {
+      "upright": "오랜 노력 끝에 물질적 성공과 든든한 기반을 이루어낸 안정된 리더십을 상징한다. 현실적이고 관대한 태도로 자신이 쌓은 것을 주변과 나누는 여유를 보여준다.",
+      "reversed": "물질적인 성공에 지나치게 집착하거나 완고한 태도로 변화를 거부하는 상태를 나타낸다. 겉으로 보이는 풍요에만 매달리다 정작 중요한 가치를 놓칠 수 있다."
+    }
+  }
+]
