@@ -35,7 +35,7 @@ function CardFrontFace({ card, orientation }) {
       >
         {!imgFailed ? (
           <img
-            src={card.image}
+            src={`${import.meta.env.BASE_URL}${card.image.replace(/^\//, '')}`}
             alt={card.name}
             onError={() => setImgFailed(true)}
             className="w-full h-2/3 object-cover"

@@ -30,7 +30,10 @@ function copyPublicDirPlugin(publicDir, outDir) {
   }
 }
 
-export default defineConfig({
+export default defineConfig(({ command }) => ({
+  // Served from https://<user>.github.io/tarot_simple/, so production
+  // builds need the repo name as the base path. Dev server keeps using '/'.
+  base: command === 'build' ? '/tarot_simple/' : '/',
   // publicDir stays enabled (default) so the dev server keeps serving
   // public/ directly; only the build-time copy (which used copyFileSync)
   // is disabled, replaced by copyPublicDirPlugin below.
@@ -38,4 +41,4 @@ export default defineConfig({
     copyPublicDir: false,
   },
   plugins: [react(), copyPublicDirPlugin(path.resolve('public'), path.resolve('dist'))],
-})
+}))
